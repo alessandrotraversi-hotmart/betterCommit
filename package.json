@@ -1,0 +1,14 @@
+{
+  "name": "bettercommit",
+  "version": "1.0.0",
+  "description": "Commit best pratice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alessandro Traversi",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^7.0.4"
+  }
+}
